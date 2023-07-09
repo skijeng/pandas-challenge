@@ -15,4 +15,19 @@ https://sparkbyexamples.com/pandas/pandas-create-dataframe-from-multiple-series/
 https://pbpython.com/currency-cleanup.html
 https://blog.enterprisedna.co/pandas-drop-index/
 
+# Summary and Conclusions from the data:
+
+The analysis showed that smaller schools tended to perform better on math and reading scores, and had an overall higher passing rate.
+
+The analysis also showed charter schools tended to perform better on math and reading and overall passing scores. This is likely do to the schools being smaller in size as well.
+
+Against my initial hypothesis, schools with more spending per student did not perform better than schools with less spending per student. This is likely becuase the larger schools had more spending per student, but still had larger classes.
+
+To continue with the above, the overall school budget was not a factor in determining a student's performance on exams.
+
+The math and reading scores had no significant variance between the grades either, so I would not claim the grade a student is in affects their likelihood to score well on exams.
+
+The top 5 performing schools were all charter schools, and the bottom 5 performing schools were all district. This is significant evidence to argue a student is more likely to perform well on exams if they attend a charter school.
+
+
 
